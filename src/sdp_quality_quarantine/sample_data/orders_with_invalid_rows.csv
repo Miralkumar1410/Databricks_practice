@@ -1,0 +1,8 @@
+order_id,customer_name,city,amount,order_ts
+201,Isha,Delhi,1200,2026-10-07 09:10:00
+202,Jai,Mumbai,0,2026-10-07 09:12:00
+203,Kavya,Bengaluru,abc,2026-10-07 09:15:00
+204,Manav,Chennai,700,2026-10-07 09:18:00
+,Neha,Pune,500,2026-10-07 09:20:00
+205,Omar,Delhi,-25,2026-10-07 09:25:00
+206,Priya,Hyderabad,900,not-a-timestamp
