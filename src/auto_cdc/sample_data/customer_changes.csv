@@ -1,0 +1,10 @@
+customer_id,customer_name,city,customer_tier,sequence_num,operation
+C001,Aarav Sharma,Delhi,Silver,1,INSERT
+C002,Diya Patel,Mumbai,Gold,1,INSERT
+C003,Kabir Singh,Pune,Bronze,1,INSERT
+C001,Aarav Sharma,Delhi,Gold,2,UPDATE
+C002,Diya Patel,Nagpur,Gold,2,UPDATE
+C003,Kabir Singh,Pune,Bronze,2,UPDATE
+C001,Aarav Sharma,Jaipur,Gold,3,UPDATE
+C002,Diya Patel,Nagpur,Gold,3,DELETE
+C004,Meera Joshi,Chennai,Silver,3,INSERT
