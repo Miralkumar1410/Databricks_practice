@@ -1,0 +1,4 @@
+order_id,customer_name,city,amount,order_ts
+109,Ivan,Delhi,1300,2026-10-09 11:00:00
+110,Julia,Mumbai,1600,2026-10-09 11:05:00
+111,Karan,Pune,-200,2026-10-09 11:10:00
