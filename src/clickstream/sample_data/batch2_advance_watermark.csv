@@ -1,0 +1,4 @@
+event_id,user_id,event_time,page,action
+8,u1,2026-10-13 10:30:00,/offers,view
+9,u2,2026-10-13 10:31:00,/products/2,view
+10,u4,2026-10-13 10:32:00,/home,view
