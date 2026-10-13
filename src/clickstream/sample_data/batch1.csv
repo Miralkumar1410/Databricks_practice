@@ -1,0 +1,8 @@
+event_id,user_id,event_time,page,action
+1,u1,2026-10-13 10:00:00,/home,view
+2,u1,2026-10-13 10:01:00,/products,click
+3,u1,2026-10-13 10:03:00,/cart,add_to_cart
+4,u2,2026-10-13 10:02:00,/home,view
+5,u2,2026-10-13 10:04:00,/products,click
+6,u3,2026-10-13 10:05:00,/home,view
+7,u3,2026-10-13 10:06:00,/search,search
