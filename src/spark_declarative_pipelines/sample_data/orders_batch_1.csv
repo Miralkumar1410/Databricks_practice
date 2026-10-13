@@ -1,0 +1,6 @@
+order_id,customer_name,city,amount,order_ts
+101,Alice,Delhi,1200,2026-10-06 09:10:00
+102,Bob,Mumbai,850,2026-10-06 09:12:00
+103,Charlie,Bangalore,1500,2026-10-06 09:15:00
+104,David,Delhi,-50,2026-10-06 09:18:00
+105,Eva,Chennai,2100,2026-10-06 09:20:00
