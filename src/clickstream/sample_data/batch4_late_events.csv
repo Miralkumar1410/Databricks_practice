@@ -1,0 +1,4 @@
+event_id,user_id,event_time,page,action
+14,u1,2026-10-13 10:02:00,/payment,purchase
+15,u2,2026-10-13 10:03:00,/checkout,purchase
+16,u3,2026-10-13 10:04:00,/products/late,click
